@@ -13,7 +13,11 @@
 
   "Comment": {
     "authorPost": {
-      "belongsTo": "Post"
+     "int": [
+      100,
+      200,
+      300
+    ]
     }
   }
 
