@@ -11,9 +11,13 @@
     }
   }, 
     "Api": {
-    "sheet": { "hozen": 1 },
-    "add-in": {
-      "hozen": 1
-    }
+    "sheet": {
+      "title": {
+    "loremWords": { "minLength": 5, "maxLength": 20 }
+  }}
+    "add-in":{
+      "title": {
+    "loremWords": { "minLength": 5, "maxLength": 20 }
+  }}
   }
 }
