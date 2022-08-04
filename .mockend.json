@@ -10,14 +10,11 @@
       }
     }
   }, 
-    "Api": {
-    "sheet": {
-      "title": {
-    "loremWords": { "minLength": 5, "maxLength": 20 }
-  }},
-    "add-in":{
-      "title": {
-    "loremWords": { "minLength": 5, "maxLength": 20 }
-  }}
+
+  "Comment": {
+    "authorPost": {
+      "belongsTo": "Post"
+    }
   }
+
 }
