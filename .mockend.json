@@ -8,7 +8,7 @@
       ]
     }
   },
-  "User": {
+  "getAllTools": {
     "name": {
       "string": {}
     },
